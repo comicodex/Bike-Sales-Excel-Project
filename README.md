@@ -6,8 +6,9 @@ Analysis of bike sales using data from Alex Freberg and Excel, including data cl
 * Removed any missing or incomplete entries
 * Standardized data formats for consistent analysis
 ## 2. Exploratory Data Analysis (EDA):
-* Sales Trend Analysis: Sales Trend Analysis: analyzed sales trends in relation to gender, marital status, income, region and commute distance
-## 3. Data Visualization:
+* Sales Trend Analysis: analyzed sales trends in relation to gender, marital status, income, region and commute distance
+## 3. Data Visualization & Insights:
 * Used bar charts, line graphs to visualize sales and created dashboard
+
 
 
