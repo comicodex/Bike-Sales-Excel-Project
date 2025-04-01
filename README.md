@@ -23,3 +23,7 @@ Longer commutes (above 5 miles) significantly reduce bike purchases, likely due 
 This line chart highlights that middle-aged individuals are the most significant bike buyers. Adolescents and older individuals are less likely to purchase bikes. The overall trend shows that bike purchases peak in middle age and decline afterward.
 
 
+## Key Takeaways
+- Individuals who purchased a bike have a higher average income compared to those who did not.
+- People with shorter commutes are more likely to purchase a bike.
+- Middle-aged individuals are the most significant bike buyers.
